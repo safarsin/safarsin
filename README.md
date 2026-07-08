@@ -2,10 +2,9 @@
 
 ### About Me
 - I’m interested in programming, automation and games  
-- I’m a 2nd year university student (CTU, Applied Informatics)  
-- I’m looking to collaborate on open-source projects  
-- How to reach me: sinosafarov1919@gmail.com or via GitHub Issues/Discussions  
+- I’m a 2nd year university student (CTU, Applied Informatics)   
 - Like working on projects that have a real-world impact
+- Currently working on: [AutoRewarder](https://github.com/safarsin/AutoRewarder)
   
 ---
 
